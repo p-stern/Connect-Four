@@ -55,7 +55,6 @@ function makeHtmlBoard() {
     top.classList.add("p1HoverColor");
     top.addEventListener("click", handleClick);
 
-
     // td element created to represent headCell and appended to top; each td will have id equal to its position of width
     //     with trigger when the row is clicked
 
